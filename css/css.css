@@ -1,0 +1,56 @@
+
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 0; outline: none;}
+body {	font-family: "宋体";font-size: 14px;color:#FFF;line-height: 20px;text-align:left;
+background:url(../images/背景.jfif) no-repeat; width: 100%; background-size: cover;
+background-color:teal;}
+a {color: #000000;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+ul,li{list-style-type:none;}
+.clearit{clear:both;}
+
+
+.da {width:1000px; height:617px; background:url(../images/b1.jpg); margin:0 auto; margin-top:100px; }
+.shou {width:1000px; height:617px; background: rgba(86,89,104, 0.6 )}
+.shou img {border-radius:180px; margin-top:150px; margin-left:100px;}
+.shou h1 {width:800px; height:60px; border-bottom:2px solid #CCC; margin:0 auto; margin-top:30px; line-height:40px; 
+color:rgb(214, 172, 172); font-size:38px; letter-spacing:2px;font-family: "幼圆"; font-weight:bold}
+.shou  ul {width:800px; height:50px; margin:0 auto; margin-top:30px; }
+.shou ul li {width:100px; float:left; margin-left:10px;}
+.shou ul li a { color:#FFF; font-size:14px; }
+.shou ul li A:hover {TEXT-DECORATION: underline;color: #CCC;}
+
+.ban {width:1000px; height:649px; background:url(../images/b1.jpg); margin:0 auto; margin-top:100px; }
+.zuo {width:560px; float:left;}
+.zuo h2 {width:430px; height:40px; margin:0 auto; border-bottom:2px solid #CCC; margin-top:160px; line-height:30px; 
+color:#FFF; font-size:28px; letter-spacing:2px;font-family: "幼圆"; font-weight:bold }
+.zuo p {width:410px; height:40px; margin:0 auto; margin-top:30px; line-height:30px; color:#FFF; font-size:14px; text-indent:2em; }
+.er { margin-top:220px; float:right; margin-right:80px;}
+.er img { float:left; }
+.er a { color:#FFF;}
+.er a:hover{ font-weight:bold;}
+.you {width:400px; float:left; margin-left:40px;}
+.you img {border-radius:180px; margin-top:150px;}
+
+.bn {width:1000px; height:659px; background:url(../images/b1.jpg); margin:0 auto; margin-top:100px; }
+.ba {width:1000px; height:653px; background:url(../images/b1.jpg); margin:0 auto; margin-top:100px; }
+.yu {width:400px; float:left;}
+.yu img {border-radius:180px; margin-top:150px; margin-left:100px;}
+
+.bb {width:1000px; height:653px; background:url(../images/b1.jpg); margin:0 auto; margin-top:100px; }
+.wen {width:800px; margin:0 auto; padding-top:100px;}
+.wen h2 {width:800px; height:40px; margin:0 auto; border-bottom:2px solid #CCC; line-height:30px; 
+color:#FFF; font-size:28px; letter-spacing:2px;font-family: "幼圆"; font-weight:bold }
+.wen p {line-height:30px; color:#FFF; font-size:14px; text-indent:2em; }
+.ee { margin-top:50px; float:right; margin-right:80px;}
+.ee img { float:left; }
+.ee a { color:#FFF;}
+.ee a:hover{ font-weight:bold;}
+.main{ width: 500px; margin-right: auto; margin-left: auto;}
+.tip{ display: inline-block; width: 100px; height: 60px; text-align: right;}s
+.content{ display: inline-block; width: 200px; height: 60px;  text-align: left;}
+.content-1{display: inline-block; width: 200px; height: 60px;  text-align: left;}
+.subm{ display: inline-block; text-align: center; width: 300px;}
+.btn_sub{ height: 30px; width: 80px; text-align: center; font: 22px; }
